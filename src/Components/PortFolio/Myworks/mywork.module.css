@@ -1,0 +1,75 @@
+.title{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.cardcontainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5%;
+  flex-flow: wrap;
+}
+.container{
+  padding: 100px 0;
+}
+
+.card {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: rgba(219, 219, 226, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+  
+  .image {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    border-radius: 10px;
+  }
+  
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    transition: .5s ease;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .card:hover .overlay {
+    height: 100%;
+  }
+  
+  .text {
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;
+    filter: drop-shadow(2px 4px 6px #FF007A);
+    
+  }
+  .subtitle{
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    text-align: start;
+    overflow-wrap: break-word;
+    padding: 5px;
+  }

@@ -1,0 +1,43 @@
+.container{
+    height: 100vh;   
+     background-image: url(../../Images/0Q8A0138-transformed.png);
+    background-repeat: no-repeat;
+    background-position: -255px 50%;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin: 0% 6% 0% 0%;
+  }
+
+  .desc{
+    color: white;
+   font-size: 18px;
+   font-weight: 600;
+   letter-spacing: 1px;
+   display: flex;
+  }
+  .name{
+    color: #FF007A;
+    font-size: 3rem;
+    margin-left: 1rem;
+  }
+  .subdesc{
+    color: white;
+  }
+  
+  
+  .textdesign {
+    color: #ffffff;
+    font-family: tahoma;
+    font-size: 3rem;
+    font-weight: 100;
+    line-height: 1.5;
+    text-transform: uppercase;
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+  }
+  

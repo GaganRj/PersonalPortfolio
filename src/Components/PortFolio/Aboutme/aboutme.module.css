@@ -1,0 +1,68 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; 
+    gap: 5%;
+    padding: 100px 0;
+}
+.title{
+    color: white;
+}
+.desc{
+    color: white;
+    font-size: 1800x;
+    letter-spacing: 1px;
+    font-weight: 500;
+   text-align: start;
+}
+.skills{
+    display: flex;
+    gap: 10%;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.nav{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    display: inline-block;
+    position: relative;
+}
+.nav::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #FF007A;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .nav:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+  .skillcontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 3%;
+  }
+  .skill{
+    font-size: 18px;
+    font-weight: 600;
+    color: #FF007A;
+    letter-spacing: 1px;
+  }
+  .about{
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    letter-spacing: 1px;
+  }
