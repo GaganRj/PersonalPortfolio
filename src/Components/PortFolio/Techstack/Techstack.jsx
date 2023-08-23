@@ -3,7 +3,9 @@ import Style from './techstack.module.css'
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-
+import { useEffect } from 'react'
+import 'aos/dist/aos.css'
+import AOS from 'aos'
 
 
 
@@ -47,8 +49,12 @@ const Techstack = () => {
         ]
     };
 
+    useEffect(()=>{
+        AOS.init({duration: 2000});
+    },[])
+
     return (
-        <div  className={Style.maincontainer} id="techstack">
+        <div  className={Style.maincontainer} id="techstack" data-aos="fade-up">
             <div className={Style.container}>
                 <div className={Style.header}>
                     <h1 className={Style.stackheading}>Teck Stack</h1>

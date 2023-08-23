@@ -2,6 +2,9 @@ import React, { useState } from 'react'
 import Style from './aboutme.module.css'
 import { About, Skills, SkillHead } from './data'
 import gagan from '../../Images/0Q8A0138.jpg'
+import { useEffect } from 'react'
+import 'aos/dist/aos.css'
+import AOS from 'aos'
 
 const AboutMe = () => {
 
@@ -10,9 +13,13 @@ const AboutMe = () => {
     const filterData = Skills.filter((data) => data.status === filter).map((element) => {
         return element;
       },[]);
+
+      useEffect(()=>{
+        AOS.init({duration: 2000});
+    },[])
   
     return (
-        <div className={Style.container} id='aboutme'>
+        <div className={Style.container} id='aboutme' data-aos="fade-up">
             <div>
                 <img src={gagan} alt='gagan' style={{ width: "500px", height: "500px" }} />
             </div>

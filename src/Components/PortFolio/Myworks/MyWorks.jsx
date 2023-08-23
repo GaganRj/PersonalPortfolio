@@ -1,10 +1,18 @@
 import Style from './mywork.module.css'
 import { Myworks } from './data'
 import './button.css'
+import 'aos/dist/aos.css'
+import AOS from 'aos'
+import { useEffect } from 'react'
 
 const MyWorks = () => {
+
+    useEffect(()=>{
+        AOS.init({duration: 2000});
+    },[])
+
     return (
-        <div className={Style.container}  id='mywork'>
+        <div className={Style.container}  id='mywork' data-aos="fade-up">
             <h1 className={Style.title}>My Works</h1>
             <div className={Style.cardcontainer} style={{ marginTop: "3rem" }}>
                 {

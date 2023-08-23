@@ -4,10 +4,18 @@ import PhoneOutlinedIcon from '@mui/icons-material/PhoneOutlined';
 import ArrowDownwardIcon from '@mui/icons-material/ArrowDownward';
 import './button.css'
 import { Github, Linkedin } from 'lucide-react';
+import { useEffect } from 'react'
+import 'aos/dist/aos.css'
+import AOS from 'aos'
 
 const ContactMe = () => {
+
+    useEffect(()=>{
+        AOS.init({duration: 2000});
+    },[])
+
     return (
-        <div className={Style.container} id='contactme'>
+        <div className={Style.container} id='contactme' data-aos="fade-up">
             <div className={Style.subcontain1}>
                 <h1 className={Style.head}>Contact Me</h1>
                 <p style={{ color: "white", display: "flex" }}>Don`t be shy! Hit me up <ArrowDownwardIcon style={{ color: "#FF007A" }} /></p>
