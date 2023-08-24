@@ -58,7 +58,7 @@ const Techstack = () => {
             <div className={Style.container}>
                 <div className={Style.header}>
                     <h1 className={Style.stackheading}>Teck Stack</h1>
-                    <div className="kavki" style={{marginTop:"4%"}}>
+                    <div className={Style.techsubcontain}>
                         <Slider {...settings} >
 
                             {

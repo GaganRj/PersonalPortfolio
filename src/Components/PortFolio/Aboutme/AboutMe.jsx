@@ -21,9 +21,9 @@ const AboutMe = () => {
     return (
         <div className={Style.container} id='aboutme' data-aos="fade-up">
             <div>
-                <img src={gagan} alt='gagan' style={{ width: "500px", height: "500px" }} />
+                <img className={Style.aboutimg} src={gagan} alt='gagan'  />
             </div>
-            <div style={{ width: "50%" }}>
+            <div className={Style.aboutskills}>
                 {
                     About.map((data) => {
                         return (

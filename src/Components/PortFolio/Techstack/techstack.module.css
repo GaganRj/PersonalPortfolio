@@ -1,18 +1,33 @@
-.maincontainer{
+.maincontainer {
     padding: 64px 0;
 }
-.img{
+
+.img {
     width: 100px !important;
     height: 100px;
     margin-left: 11rem;
     margin-right: 11rem;
 }
-.stackheading{
+
+.stackheading {
     color: white;
     display: flex;
     justify-content: center;
 }
-.container{
+
+.container {
     margin-right: auto;
     margin-left: auto;
+}
+.techsubcontain{
+    margin-top: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+
+    .maincontainer {
+        padding: 64px 30px;    }
 }
