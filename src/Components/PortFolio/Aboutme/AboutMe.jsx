@@ -35,6 +35,7 @@ const AboutMe = () => {
 
                     })
                 }
+                 <br/>
                 <div className={Style.skills}>
                     {
                         SkillHead.map((skilllist) => {
