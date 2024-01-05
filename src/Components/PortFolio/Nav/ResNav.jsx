@@ -34,11 +34,11 @@ const ResNav = () => {
             autoComplete="off"
           >
           </Box>
-          <a href='#home' className='page-scroll'>HOME</a>
-          <a href="#aboutme" className='page-scroll'>ABOUT</a>
-          <a href="#techstack" className='page-scroll'>TECHSTACK</a>
-          <a href="#mywork" className='page-scroll'>MYWORKS</a>
-          <a href="#contactme" className='page-scroll'>CONTACT</a>
+          <a href='#home' className='page-scroll' onClick={showNavbar}>HOME</a>
+          <a href="#aboutme" className='page-scroll' onClick={showNavbar}>ABOUT</a>
+          <a href="#techstack" className='page-scroll' onClick={showNavbar}>TECHSTACK</a>
+          <a href="#mywork" className='page-scroll' onClick={showNavbar}>MYWORKS</a>
+          <a href="#contactme" className='page-scroll' onClick={showNavbar}>CONTACT</a>
           <button className="nav-btn nav-close-btn" onClick={showNavbar}>
             <FaTimes />
           </button>

@@ -15,6 +15,7 @@ const ContactMe = () => {
     },[])
 
     return (
+        <>
         <div className={Style.container} id='contactme' data-aos="fade-up">
             <div className={Style.subcontain1}>
                 <h1 className={Style.head}>Contact Me</h1>
@@ -43,6 +44,9 @@ const ContactMe = () => {
             <div className={Style.subcontain1}>
             </div>
         </div>
+                        <div><span className={Style.coprights}>© Design by Gaganraj</span></div>
+
+            </>
     )
 }
 
