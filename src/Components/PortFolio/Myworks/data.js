@@ -36,6 +36,14 @@ const Myworks = [
     },
     {
         id: 4,
+        imgUrl: https://img.hotimg.com/uLogo.png,
+        tittle: "Uniqpay, Fintech",
+        desc: "Uniqpay",
+        subtittle: "Collaborated in building a multi-functional payment application, Uniqpay with distinct portals for admin and merchant.",
+        href:"https://raj1-weather-forcast.netlify.app/"
+    },
+    {
+        id: 5,
         imgUrl: weather,
         tittle: "Weather-forcast",
         desc: "Samhitas",
