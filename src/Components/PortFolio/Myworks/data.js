@@ -40,7 +40,7 @@ const Myworks = [
         tittle: "Weather-forcast",
         desc: "Samhitas",
         subtittle: "Experience real-time weather updates with our sleek ReactJS-based website. Tailwind CSS ensures a user-friendly design for quick access to current conditions and forecasts.",
-        href:"https://6597898bc260657c1c0186f8--snazzy-cuchufli-305250.netlify.app/"
+        href:"https://raj1-weather-forcast.netlify.app/"
     },
     
 ]
