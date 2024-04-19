@@ -36,30 +36,36 @@ const Skills = [
     },
     {
         id: 3,
-        skill: "FRONT END DEVELOPER, (1+ years)",
-        technica: "KAVKI MARKETING AND TECHNOLOGY PVT LTD ",
+        skill: "ASSOCIATE SOFTWARE ENGINEER, (5 months)",
+        technica: "TEST YANTRA SOFTWARE SOLUTIONS  PVT LTD ",
         status: "Experience"
     },
     {
         id: 4,
+        skill: "FRONT END DEVELOPER,(2 years)",
+        technica: "KAVKI MARKETING AND TECHNOLOGY PVT LTD ",
+        status: "Experience"
+    },
+    {
+        id: 5,
         skill: "JavaScript",
         technica: "Programming Languages",
         status: "Skills"
     },
     {
-        id: 5,
+        id: 6,
         skill: "ReactJs",
         technica: "Front-End Frameworks",
         status: "Skills"
     },
     {
-        id: 6,
+        id: 7,
         skill: "HTML",
         technica: "Markup Languages",
         status: "Skills"
     },
     {
-        id: 7,
+        id: 8,
         skill: "CSS, Material UI, Bootstrap, Tailwind CSS",
         technica: "Styling",
         status: "Skills"
