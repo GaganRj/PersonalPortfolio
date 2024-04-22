@@ -28,7 +28,7 @@ const ContactMe = () => {
                     <PhoneOutlinedIcon style={{ color: "#FF007A" }} />
                     <a href="tel:+919148525489"><span style={{ color: "white" }}>+91 9148525489</span></a>
                 </div>
-                <a target="blank" href='https://drive.google.com/file/d/15bt9ZzGA04vkOsjYgupty_sG7kAg-Qoy/view?usp=sharing'>
+                <a target="blank" href='https://drive.google.com/file/d/1mfGYIHQTyRB3ZunMwm3NMIEKVweRjOH4/view?usp=drive_link'>
                     <div className="box">
                         <div className="bt btn-three">
                             <span style={{ color: "white", fontWeight: "600" }}>Download CV</span>
