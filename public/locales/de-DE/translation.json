@@ -21,7 +21,7 @@
     "myproject": [
       {
         "id": 1,
-        "imgUrl": "../../../src/Components/Images/kavki logo.png",
+        "imgUrl": "https://img.hotimg.com/kavki-logo.png",
         "tittle": "Kavki Website",
         "desc": "Samhitas",
         "subtittle": "Die offizielle Website des Unternehmens wurde überarbeitet, um ein attraktives Design und nahtlose Reaktionsfähigkeit zu gewährleisten.",
@@ -29,7 +29,7 @@
       },
       {
         "id": 2,
-        "imgUrl": "../../../src/Components/Images/Samhitas logo with bg.png",
+        "imgUrl": "https://img.hotimg.com/Samhitas-logo-with-bg.png",
         "tittle": "Samhitas E-commerce",
         "desc": "Samhitas",
         "subtittle": "Entwickelte die Benutzeroberfläche für die E-Commerce-Website von Samhitas und konzentrierte sich dabei auf Designästhetik und Reaktionsfähigkeit.",
@@ -37,7 +37,7 @@
       },
       {
         "id": 3,
-        "imgUrl": "../../../src/Components/Images/Eazykred logo.png",
+        "imgUrl": "https://img.hotimg.com/Eazykred-logo.png",
         "tittle": "EazyKred, Digital Wallet",
         "desc": "Samhitas",
         "subtittle": "Mitarbeit beim Aufbau einer multifunktionalen Zahlungsmappe, EazyKred, mit unterschiedlichen Portalen für Administratoren, Unternehmen, Kunden und Benutzer.",
@@ -53,7 +53,7 @@
       },
       {
         "id": 5,
-        "imgUrl": "../../../src/Components/Images/weatherlogo.png",
+        "imgUrl": "https://img.hotimg.com/weatherlogo.png",
         "tittle": "Weather-forcast",
         "desc": "Samhitas",
         "subtittle": "Erleben Sie Wetteraktualisierungen in Echtzeit mit unserer eleganten ReactJS-basierten Website. Tailwind CSS sorgt für ein benutzerfreundliches Design für schnellen Zugriff auf aktuelle Bedingungen und Prognosen.",
@@ -61,7 +61,7 @@
       },
       {
         "id": 6,
-        "imgUrl": "../../../src/Components/Images/Nyamaha  Tour and travel logo copy 3.jpg",
+        "imgUrl": "https://img.hotimg.com/Nyamaha-Tour-and-travel-logo-copy-3.jpeg",
         "tittle": "Nyamah Holidays",
         "desc": "Nyamah",
         "subtittle": "Gönnen Sie sich das elegante UI/UX-Design und die sorgfältig optimierte Codebasis von Nyamah Holidays für eine mühelose Urlaubsplanung mit blitzschnellen Ladezeiten.",

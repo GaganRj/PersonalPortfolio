@@ -21,7 +21,7 @@
   "myproject": [
     {
       "id": 1,
-      "imgUrl": "../../../src/Components/Images/kavki logo.png",
+      "imgUrl": "https://img.hotimg.com/kavki-logo.png",
       "tittle": "Kavki Sitio web",
       "desc": "Samhitas",
       "subtittle": "Se renovó el sitio web oficial de la empresa, garantizando un diseño atractivo y una capacidad de respuesta perfecta.",
@@ -29,7 +29,7 @@
     },
     {
       "id": 2,
-      "imgUrl": "../../../src/Components/Images/Samhitas logo with bg.png",
+      "imgUrl": "https://img.hotimg.com/Samhitas-logo-with-bg.png",
       "tittle": "Samhitas comercio electrónico",
       "desc": "Samhitas",
       "subtittle": "Desarrollé la interfaz de usuario para el sitio web de comercio electrónico de Samhitas, centrándose en la estética del diseño y la capacidad de respuesta.",
@@ -37,7 +37,7 @@
     },
     {
       "id": 3,
-      "imgUrl": "../../../src/Components/Images/Eazykred logo.png",
+      "imgUrl": "https://img.hotimg.com/Eazykred-logo.png",
       "tittle": "EazyKred, Billetera Digital",
       "desc": "Samhitas",
       "subtittle": "Colaboré en la creación de una billetera de pagos multifuncional, EazyKred, con diferentes portales para administrador, corporativo, cliente y usuario.",
@@ -53,7 +53,7 @@
     },
     {
       "id": 5,
-      "imgUrl": "../../../src/Components/Images/weatherlogo.png",
+      "imgUrl": "https://img.hotimg.com/weatherlogo.png",
       "tittle": "Weather-forcast",
       "desc": "Samhitas",
       "subtittle": "Experimente actualizaciones meteorológicas en tiempo real con nuestro elegante sitio web basado en ReactJS. Tailwind CSS garantiza un diseño fácil de usar para un acceso rápido a las condiciones y pronósticos actuales.",
@@ -61,7 +61,7 @@
     },
     {
       "id": 6,
-      "imgUrl": "../../../src/Components/Images/Nyamaha  Tour and travel logo copy 3.jpg",
+      "imgUrl": "https://img.hotimg.com/Nyamaha-Tour-and-travel-logo-copy-3.jpeg",
       "tittle": "Nyamah Holidays",
       "desc": "Nyamah",
       "subtittle": "Disfrute del elegante diseño UI/UX de Nyamah Holidays y del código base meticulosamente optimizado para planificar sus vacaciones sin esfuerzo con tiempos de carga ultrarrápidos.",
