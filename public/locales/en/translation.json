@@ -1,0 +1,74 @@
+{
+  "navbar": [
+    { "id": "1", "link": "#home", "title": "HOME" },
+    { "id": "2", "link": "#aboutme", "title": "ABOUT" },
+    { "id": "3", "link": "#techstack", "title": "TECHSTACK" },
+    { "id": "4", "link": "#mywork", "title": "MYWORKS" },
+    { "id": "5", "link": "#contactme", "title": "CONTACT" }
+  ],
+  "homeh1": "Hi,",
+  "homeiam": "I`am",
+  "homecontent": "Professional Frontend Developer.Our Main Goal to help & Satisficed the Local & Global Clients by web development solutions.",
+  "about": "About Me",
+  "aboutDetail": "Motivated Front-End Developer with 2+ years of experience at Kavki Marketing and Technology Pvt Ltd Company, pursuing MCA, 2nd year at Mysore University. Completed BCA from PES College, Mandya in November 2021. Passionate about creating visually appealing and responsive web applications. Seeking opportunities to leverage my skills and expertise to contribute to cutting-edge projects and deliver exceptional user experiences.",
+  "SkillHead": [
+    { "id": 1, "value": "Skills", "title": "Skills" },
+    { "id": 2, "value": "Experience", "title": "Experience" },
+    { "id": 3, "value": "Education", "title": "Education" }
+  ],
+  "techstack": "Teck Stack",
+  "mywork": "My Works",
+  "myproject": [
+    {
+      "id": 1,
+      "imgUrl": "../../../src/Components/Images/kavki logo.png",
+      "tittle": "Kavki Website",
+      "desc": "Samhitas",
+      "subtittle": "Revamped the company's official website, ensuring an appealing design and seamless responsiveness.",
+      "href": "https://kavkitech.com/"
+    },
+    {
+      "id": 2,
+      "imgUrl": "../../../src/Components/Images/Samhitas logo with bg.png",
+      "tittle": "Samhitas E-commerce",
+      "desc": "Samhitas",
+      "subtittle": "Developed the user interface for the Samhitas e-commerce website, focusing on design aesthetics and responsiveness.",
+      "href": "https://www.samhitasapparel.com/"
+    },
+    {
+      "id": 3,
+      "imgUrl": "../../../src/Components/Images/Eazykred logo.png",
+      "tittle": "EazyKred, Digital Wallet",
+      "desc": "Samhitas",
+      "subtittle": "Collaborated in building a multi-functional payment wallet, EazyKred with distinct portals for admin, corporate, client, and user.",
+      "href": "https://eazykred.com/#/"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://img.hotimg.com/uLogo.png",
+      "tittle": "Uniqpay, Fintech",
+      "desc": "Uniqpay",
+      "subtittle": "Collaborated in building a multi-functional payment application, Uniqpay with distinct portals for admin and merchant.",
+      "href": "https://myuniqpay.com/"
+    },
+    {
+      "id": 5,
+      "imgUrl": "../../../src/Components/Images/weatherlogo.png",
+      "tittle": "Weather-forcast",
+      "desc": "Samhitas",
+      "subtittle": "Experience real-time weather updates with our sleek ReactJS-based website. Tailwind CSS ensures a user-friendly design for quick access to current conditions and forecasts.",
+      "href": "https://raj1-weather-forcast.netlify.app/"
+    },
+    {
+      "id": 6,
+      "imgUrl": "../../../src/Components/Images/Nyamaha  Tour and travel logo copy 3.jpg",
+      "tittle": "Nyamah Holidays",
+      "desc": "Nyamah",
+      "subtittle": "Indulge in Nyamah Holidays' sleek UI/UX design and meticulously optimized codebase for effortless vacation planning with lightning-fast loading times.",
+      "href": "https://nyamahholidays.com/"
+    }
+  ],
+  "viewsite":"View Site",
+  "contactme": "Contact me",
+  "downloadcv": "Download CV"
+}

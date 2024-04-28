@@ -1,0 +1,74 @@
+{
+  "navbar": [
+    { "id": "1", "link": "#home", "title": "HOGAR" },
+    { "id": "2", "link": "#aboutme", "title": "ACERCA DE" },
+    { "id": "3", "link": "#techstack", "title": "TECNOLOGÍA" },
+    { "id": "4", "link": "#mywork", "title": "MIS TRABAJOS" },
+    { "id": "5", "link": "#contactme", "title": "CONTACTO" }
+  ],
+  "homeh1": "Hola,",
+  "homeiam": "yo soy",
+  "homecontent": "Desarrollador Frontend Profesional. Nuestro principal objetivo es ayudar y satisfacer a clientes locales y globales a través de soluciones de desarrollo web.",
+  "about": "ACERCA DE",
+  "aboutDetail": "Desarrollador front-end motivado con más de 2 años de experiencia en Kavki Marketing and Technology Pvt Ltd Company, cursando MCA, segundo año de la Universidad de Mysore. Completó BCA de PES College, Mandya en noviembre de 2021. Apasionado por la creación de aplicaciones web responsivas y visualmente atractivas. Buscando oportunidades para aprovechar mis habilidades y experiencia para contribuir a proyectos de vanguardia y ofrecer experiencias de usuario excepcionales.",
+  "SkillHead": [
+    { "id": 1, "value": "Skills", "title": "Habilidades" },
+    { "id": 2, "value": "Experience", "title": "Experiencia" },
+    { "id": 3, "value": "Education", "title": "Educación" }
+  ],
+  "techstack": "Tecnología",
+  "mywork": "mi trabajo",
+  "myproject": [
+    {
+      "id": 1,
+      "imgUrl": "../../../src/Components/Images/kavki logo.png",
+      "tittle": "Kavki Sitio web",
+      "desc": "Samhitas",
+      "subtittle": "Se renovó el sitio web oficial de la empresa, garantizando un diseño atractivo y una capacidad de respuesta perfecta.",
+      "href": "https://kavkitech.com/"
+    },
+    {
+      "id": 2,
+      "imgUrl": "../../../src/Components/Images/Samhitas logo with bg.png",
+      "tittle": "Samhitas comercio electrónico",
+      "desc": "Samhitas",
+      "subtittle": "Desarrollé la interfaz de usuario para el sitio web de comercio electrónico de Samhitas, centrándose en la estética del diseño y la capacidad de respuesta.",
+      "href": "https://www.samhitasapparel.com/"
+    },
+    {
+      "id": 3,
+      "imgUrl": "../../../src/Components/Images/Eazykred logo.png",
+      "tittle": "EazyKred, Billetera Digital",
+      "desc": "Samhitas",
+      "subtittle": "Colaboré en la creación de una billetera de pagos multifuncional, EazyKred, con diferentes portales para administrador, corporativo, cliente y usuario.",
+      "href": "https://eazykred.com/#/"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://img.hotimg.com/uLogo.png",
+      "tittle": "Uniqpay, financial technology",
+      "desc": "Uniqpay",
+      "subtittle": "Colaboré en la creación de una aplicación de pagos multifuncional, Uniqpay, con diferentes portales para administrador y comerciante.",
+      "href": "https://myuniqpay.com/"
+    },
+    {
+      "id": 5,
+      "imgUrl": "../../../src/Components/Images/weatherlogo.png",
+      "tittle": "Weather-forcast",
+      "desc": "Samhitas",
+      "subtittle": "Experimente actualizaciones meteorológicas en tiempo real con nuestro elegante sitio web basado en ReactJS. Tailwind CSS garantiza un diseño fácil de usar para un acceso rápido a las condiciones y pronósticos actuales.",
+      "href": "https://raj1-weather-forcast.netlify.app/"
+    },
+    {
+      "id": 6,
+      "imgUrl": "../../../src/Components/Images/Nyamaha  Tour and travel logo copy 3.jpg",
+      "tittle": "Nyamah Holidays",
+      "desc": "Nyamah",
+      "subtittle": "Disfrute del elegante diseño UI/UX de Nyamah Holidays y del código base meticulosamente optimizado para planificar sus vacaciones sin esfuerzo con tiempos de carga ultrarrápidos.",
+      "href": "https://nyamahholidays.com/"
+    }
+  ],
+  "viewsite":"Ver pagina",
+  "contactme": "Contáctame",
+  "downloadcv": "Descargar CV"
+}
