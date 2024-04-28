@@ -34,7 +34,7 @@ const MyWorks = () => {
                                     <a target="blank" href={data.href}>
                                         <div className="box-3">
                                             <div className="btn btn-three">
-                                                <span>{t("viewsite")}</span>
+                                                <span>{t("viewsite")}</span>  
                                             </div>
                                         </div>
                                     </a>
