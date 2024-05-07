@@ -65,6 +65,10 @@
     filter: drop-shadow(2px 4px 6px #FF007A);
     
   }
+  .reml{
+    color: #FF007A;
+    font-size: 12px;
+  }
   .subtitle{
     color: #ffffff;
     font-size: 16px;
