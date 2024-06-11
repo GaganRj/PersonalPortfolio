@@ -5,6 +5,9 @@ import react from '../../Images/Logos/reactjs.png'
 import boot from '../../Images/Logos/bootstrap.png'
 import mtui from '../../Images/Logos/materialui.png'
 import postman from '../../Images/Logos/postman.png'
+import github from '../../Images/Logos/github.png'
+import tailwindcss from '../../Images/Logos/tailwind.png'
+import gitlab from '../../Images/Logos/gitlab.png'
 
 const logo = [
     {
@@ -12,28 +15,40 @@ const logo = [
         imgUrl: Html,
     },
     {
-        id:1,
+        id:2,
         imgUrl: Css,
     },
     {
-        id:1,
+        id:3,
         imgUrl: js,
     },
     {
-        id:1,
+        id:4,
         imgUrl: react,
     },
     {
-        id:1,
+        id:5,
         imgUrl: boot,
     },
     {
-        id:1,
+        id:6,
         imgUrl: mtui,
     },
     {
-        id:1,
+        id:7,
         imgUrl: postman,
+    },
+    {
+        id:8,
+        imgUrl: github,
+    },
+    {
+        id:9,
+        imgUrl: tailwindcss,
+    },
+    {
+        id:10,
+        imgUrl: gitlab,
     },
     
 ]
