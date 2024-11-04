@@ -15,7 +15,7 @@ function App() {
     <ResNav />
     <Home />
     <AboutMe />
-    <Techstack />
+    {/* <Techstack /> */}
     <MyWorks />
     <ContactMe />
     </>

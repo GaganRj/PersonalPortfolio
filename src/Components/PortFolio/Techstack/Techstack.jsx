@@ -65,9 +65,9 @@ const Techstack = () => {
                         <Slider {...settings} >
 
                             {
-                                logo.map((img, index) => {
+                                logo.map((img) => {
                                     return (
-                                        <div key={index}>
+                                        <div key={img.id}>
                                             <img className={Style.img} src={img.imgUrl} style={{ width: "100px", height: "100px" }} alt='html' />
                                         </div>
 

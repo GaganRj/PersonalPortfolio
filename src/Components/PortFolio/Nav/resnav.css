@@ -34,7 +34,7 @@ header {
   padding: 0 2rem;
   background: #211522;
   color: var(--textColor);
-  position: fixed;
+  /* position: fixed; */
   z-index: 111;
 }
 
